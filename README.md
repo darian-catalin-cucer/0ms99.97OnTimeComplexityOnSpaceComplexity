@@ -1,4 +1,4 @@
-O(n)time/BEATS 99.97% MEMORY/SPEED 0ms MAY 2022
+[0ms][99.97%] O(n) time complexity | O(n) space complexity
 ```
 ```
 
